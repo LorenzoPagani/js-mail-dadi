@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://us.123rf.com/450wm/marselin888/marselin8882306/marselin888230606636/207735428-casin%C3%B2-online-poker-creativo-scommesse-gioco-d-azzardo-chip-calcio-pallacanestro-palline-da.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: aliceblue;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7);
+}
